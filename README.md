@@ -55,17 +55,6 @@ Stum/
 - **Spring Boot** — Web framework
 - **Maven** — Build & dependency management
 - **Thymeleaf** — Templating engine for HTML
-- **NewsAPI** — Source for financial news
-
----
-
-## 🧪 Testing
-
-To run unit tests:
-
-```bash
-mvn test
-```
 
 ---
 
