@@ -14,18 +14,6 @@ Curious how it works? Check out our short [demo video](https://github.com/user-a
 - ✂️ Uses natural language processing (NLP) to generate concise, readable summaries
 - 💻 User-friendly web interface powered by Spring Boot
 
----
-
-## 🚀 Getting Started
-
-### ✅ Prerequisites
-
-- Java 17 or higher
-- Maven 3+
-- Internet connection
-
----
-
 ## ⚙️ Project Structure
 
 ```
@@ -49,18 +37,9 @@ Stum/
 
 ---
 
-## 📦 Technologies Used
-
-- **Java 17** — Programming language
-- **Spring Boot** — Web framework
-- **Maven** — Build & dependency management
-- **Thymeleaf** — Templating engine for HTML
-
----
-
 ## ✨ Acknowledgements
 
-- HackStoga 2023 for the platform and inspiration
+- HackStoga 2023
 
 ---
 
