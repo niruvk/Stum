@@ -1,9 +1,9 @@
-# Stum — Stock Article Summarizer
+# 🧠 Stum — Stock Article Summarizer
 
 Automatically summarizes the latest news articles related to a stock ticker — so you stay informed without reading every article.
 
-[📽️ Demo Video](https://drive.google.com) • Built for HackStoga 2023  
-Created by [Niru VK](https://github.com/niruvk)
+🎥 **Watch the Demo:**  
+Curious how it works? Check out our short [demo video](https://github.com/user-attachments/assets/d0e4e8c4-b60a-4220-8540-ab114e104c11) to see Stum in action!
 
 ---
 
@@ -23,38 +23,6 @@ Created by [Niru VK](https://github.com/niruvk)
 - Java 17 or higher
 - Maven 3+
 - Internet connection
-- API keys for:
-  - [NewsAPI](https://newsapi.org/) or similar
-  - [OpenAI](https://platform.openai.com/signup) (if using GPT for summarization)
-
-### 🛠️ Setup Instructions
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/niruvk/Stum.git
-cd Stum
-```
-
-2. **Configure API keys**
-
-Set your API keys as environment variables or add them to the `src/main/resources/application.properties` file:
-
-```properties
-NEWS_API_KEY=your_newsapi_key_here
-OPENAI_API_KEY=your_openai_key_here
-```
-
-3. **Build and run the project**
-
-```bash
-mvn clean install
-mvn spring-boot:run
-```
-
-4. **Access the application**
-
-Visit [http://localhost:8080](http://localhost:8080) in your browser and enter a stock ticker to get started!
 
 ---
 
@@ -88,7 +56,6 @@ Stum/
 - **Maven** — Build & dependency management
 - **Thymeleaf** — Templating engine for HTML
 - **NewsAPI** — Source for financial news
-- **OpenAI GPT** — For summarization (can be replaced with custom model)
 
 ---
 
@@ -102,33 +69,13 @@ mvn test
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions!
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/my-feature`
-3. Commit your changes: `git commit -m "Add new feature"`
-4. Push to your fork: `git push origin feature/my-feature`
-5. Open a pull request
-
-Please follow Java coding standards and add documentation/comments as needed.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 💬 Feedback
-
-If you have suggestions or encounter issues, please open an issue in the GitHub repo. We'd love to hear from you!
-
----
-
 ## ✨ Acknowledgements
 
-- HackStoga 2023 for the platform
-- OpenAI and NewsAPI for providing the backbone of the summarization system
+- HackStoga 2023 for the platform and inspiration
+
+---
+
+## 👥 Contributors
+
+- Niranjan Vijaya Krishnan
+- Dominik Ritz
