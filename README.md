@@ -1,4 +1,4 @@
-# 🧠 Stum — Stock Article Summarizer
+# Stum — Stock Article Summarizer
 
 Automatically summarizes the latest news articles related to a stock ticker — so you stay informed without reading every article.
 
