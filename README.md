@@ -14,27 +14,6 @@ Curious how it works? Check out our short [demo video](https://github.com/user-a
 - ✂️ Uses natural language processing (NLP) to generate concise, readable summaries
 - 💻 User-friendly web interface powered by Spring Boot
 
-## ⚙️ Project Structure
-
-```
-Stum/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/stum/
-│   │   │       ├── controller/
-│   │   │       ├── model/
-│   │   │       ├── service/
-│   │   │       └── StumApplication.java
-│   │   └── resources/
-│   │       ├── templates/
-│   │       ├── static/
-│   │       └── application.properties
-│   └── test/
-├── pom.xml
-└── README.md
-```
-
 ---
 
 ## ✨ Acknowledgements
